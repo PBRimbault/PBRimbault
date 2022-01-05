@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**PBRimbault/PBRimbault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Curiosity is the key
 
-Here are some ideas to get you started:
+🎇 I'm a structural engineer and designer who writes code. My background is in traditional project engineering (concept, design, tender, build) with a splash of programming, mathematics and architecture nerdiness thrown i nfor good measure.
+
+🔭 Always looking for interesting projects to work on! 
+I have extensive knowledge in [Rhino + Grasshopper and RhinoCommon](https://github.com/PBRimbault/rhino.inside), linking in with [Oasys GSA](https://github.com/PBRimbault/GSA-Grasshopper), as well in Revit + Dynamo and the trusty workhorse of the AEC world, AutoCAD.
+
+⚡💾 [software stack I use](https://github.com/runxel/uses)
+
+📫 [@PBRimbault](mailto:patrick.rimbault@gmail.com)
+
+<br>
+<!--
+**runxel/runxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
