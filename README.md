@@ -7,7 +7,7 @@
 🔭 Always looking for interesting projects to work on! 
 I have extensive knowledge in [Rhino + Grasshopper and RhinoCommon](https://github.com/PBRimbault/rhino.inside), linking in with [Oasys GSA](https://github.com/PBRimbault/GSA-Grasshopper), as well in Revit + Dynamo and the trusty workhorse of the AEC world, AutoCAD.
 
-⚡💾 [software stack I use](https://github.com/runxel/uses)
+<!-- ⚡💾 [software stack I use](https://github.com/runxel/uses) -->
 
 📫 [@PBRimbault](mailto:patrick.rimbault@gmail.com)
 <!--
