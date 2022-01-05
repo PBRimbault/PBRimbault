@@ -10,8 +10,6 @@ I have extensive knowledge in [Rhino + Grasshopper and RhinoCommon](https://gith
 ⚡💾 [software stack I use](https://github.com/runxel/uses)
 
 📫 [@PBRimbault](mailto:patrick.rimbault@gmail.com)
-
-<br>
 <!--
 **runxel/runxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
