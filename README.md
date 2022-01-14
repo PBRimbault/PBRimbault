@@ -2,10 +2,10 @@
 
 > Curiosity is the key
 
-🎇 I'm a structural engineer and designer who writes code. My background is in traditional project engineering (concept, design, tender, build) with a splash of programming, mathematics and architecture nerdiness thrown i nfor good measure.
+🎇 I'm a structural engineer and designer who writes code. My background is in traditional project engineering (concept, design, tender, build) with a splash of programming, mathematics and architecture nerdiness thrown in to keep things interesting.
 
 🔭 Always looking for interesting projects to work on! 
-I have extensive knowledge in [Rhino + Grasshopper and RhinoCommon](https://github.com/PBRimbault/rhino.inside), linking in with [Oasys GSA](https://github.com/PBRimbault/GSA-Grasshopper), as well in Revit + Dynamo and the trusty workhorse of the AEC world, AutoCAD.
+I have knowledge in [Rhino + Grasshopper and RhinoCommon](https://github.com/PBRimbault/rhino.inside), linking in with [Oasys GSA](https://github.com/PBRimbault/GSA-Grasshopper), as well in Revit + Dynamo and the trusty workhorse of the AEC world, AutoCAD.
 
 <!-- ⚡💾 [software stack I use](https://github.com/runxel/uses) -->
 
